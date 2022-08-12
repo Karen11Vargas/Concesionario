@@ -1,0 +1,170 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+#title{
+    font-family: Century Gothic;
+    padding: 0px;
+    margin: 0px;
+    font-size: 100%;
+}
+
+
+h1{
+    text-align: center;
+    background-color:#2e6da4;
+    font-family: Century Gothic;
+    color: white;
+    padding: 30px;
+    margin: 0px;
+    font-size: 350%;
+}
+
+
+input{
+    font-size: 150%;
+    width:250px;
+    border: solid #2e6da4;
+    text-align: center;
+}
+
+input:hover{
+
+    color: black;
+    cursor: auto;
+
+}
+
+label{
+    text-align: center;
+    font-size: 150%;
+    font-family: Century Gothic;
+}
+
+#guardar{
+    background-color: black; 
+    color: black; 
+    color: black; /*Color texto */
+    background: #2e6da4; /* Eliminar color de fondo */
+    border:  solid  #2e6da4; /* Ancho de borde, estilo de línea y color */
+    padding:  0px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Century Gothic;
+}
+
+#guardar:hover{
+    color: white;
+    cursor: pointer;
+}
+
+
+h5{
+    font-family: Century Gothic;
+}
+
+
+select{
+
+    font-size: 100%;
+    width: 250px;
+    font-weight:bold;
+    border: solid #2e6da4;
+    padding:5px;
+}
+
+.icon-music:before {
+    content: "\1f512";
+}
+
+.icon-cloud1:before {
+    content: "\1f464";
+}
+
+.icon-car1:before {
+    content: "\1f50d";
+    font-size: 25px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
+
+.icon-accommodate:before {
+    content: "\1f501";
+    font-size: 25px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
+
+.icon-carro:before{
+    content: "\1f698";
+        font-size: 25px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+
+
+}
+.icon-adjust2:before{
+    content: "\1f4cb";
+    font-size: 25px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+
+}
+
+.icon-adjust:before {
+  content: "\1f3e0";
+  font-size: 45px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
+
+.icon-carro1:before{
+    content: "\1f698";
+        font-size: 45px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
+
+.icon-accommodate1:before {
+    content: "\1f501";
+    font-size: 45px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
+
+.icon-car11:before {
+    content: "\1f50d";
+    font-size: 45px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
+.icon-adjust3:before{
+    content: "\1f4cb";
+    font-size: 45px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+
+}
+
+.icon-atras:before {
+  content: "\1f4bc";
+  font-size: 25px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
+.icon-cerrar:before {
+  content: "\1f4b5";
+   font-size: 25px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
+
+.icon-datos:before {
+  content: "\1f4cc";
+   font-size: 45px;
+    cursor: pointer;
+    text-shadow: 0 0 3px #000;
+}
