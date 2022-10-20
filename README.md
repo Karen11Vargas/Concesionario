@@ -3,9 +3,9 @@ Aplicación web para la venta y compra de autos
 
 En esta se puede: Registrar autos, Consultar autos, Tener una cuenta como Vendedor o Comprador
 
-* **Si eres un vendedor se podra Registrar autos
+* Si eres un vendedor se podra Registrar autos
 
-* **Si eres un comprador podras consultar auros y datos del vendedor
+* Si eres un comprador podras consultar auros y datos del vendedor
 
 <p align="center"><img src="https://www.webdevelopersnotes.com/wp-content/uploads/create-a-simple-home-page.png"/></p> 
 
